@@ -1,0 +1,23 @@
+@model IEnumerable<GiftList.Models.Gift>
+
+  <!DOCTYPE html>
+
+  <html>
+
+  <head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Gift List</title>
+  </head>
+
+  <body>
+    <h1>
+      Gift list
+      @foreach (var gift in Model)
+      {
+          <li>@gift.Name</li>
+      }
+    </h1>
+
+    </body>
+
+  </html>

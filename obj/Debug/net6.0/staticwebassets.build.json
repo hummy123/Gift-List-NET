@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "afhAEaDjYHQo4N8cnlceDA8TCmS+vbivJLcInr8cLN4=",
+  "Source": "gift-list-aspnet",
+  "BasePath": "_content/gift-list-aspnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

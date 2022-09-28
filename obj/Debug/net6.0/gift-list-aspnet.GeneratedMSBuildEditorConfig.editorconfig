@@ -14,3 +14,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /home/humza/Documents/c#/asp/gill/gift-list
 build_property._RazorSourceGeneratorDebug = 
+
+[/home/humza/Documents/c\#/asp/gill/gift-list/Views/Gift/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2lmdC9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
